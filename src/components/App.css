@@ -1,0 +1,70 @@
+#body {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+}
+
+#quote-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 700px;
+    height: 300px;
+    margin: 20vh auto;
+    border-radius: 5px;
+}
+
+#quote {
+    margin-top: -70px;
+    padding: 2em;
+    font-size: 25px;
+    color: black;
+    font-family: 'DM Sans', sans-serif;
+}
+
+#author {
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 430px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+#tweet-quote {
+    position: absolute;
+    margin-top: 240px;
+    margin-left: -550px;
+    font-family: 'DM Sans', sans-serif;
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 40px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#tweet-quote:hover {
+    background-color: azure;
+}
+
+#new-quote {
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 500px;
+    font-family: 'DM Sans', sans-serif;
+    background-color: rgba(255, 255, 255, 0.5);
+    border: none;
+    width: 150px;
+    height: 35px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: black;
+}
+
+#new-quote:hover {
+    background-color: azure;
+}
+
+#twitter {
+    width: 35px;
+    height: 22px;
+    padding: 3px;
+}
