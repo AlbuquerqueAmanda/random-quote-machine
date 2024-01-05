@@ -9,6 +9,8 @@ The main goal of this project is to create an interactive experience where users
 ## Technologies
 - JavaScript
 - React: Utilized for building the user interface and handling state changes.
+- HTML
+- CSS
   
 ## Roadmap 
 This project can be extended in various ways:
@@ -40,6 +42,8 @@ O principal objetivo deste projeto é criar uma experiência interativa onde os 
 ## Tecnologias 
 - JavaScript
 - React: Utilizado para construir a interface do usuário e lidar com mudanças de estado.
+- HTML
+- CSS
 
 ## Roadmap 
 Este projeto pode ser expandido de várias maneiras:
